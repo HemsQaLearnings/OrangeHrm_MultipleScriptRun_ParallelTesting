@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="36" passed="36" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-12T22:31:01 IST" name="Suite" finished-at="2024-11-12T22:31:18 IST" duration-ms="16537">
+    <groups>
+      <group name="Integration">
+        <method signature="Pim_module_Test.Employee_List_Module_Test()[pri:0, instance:package3_LoanModule.Pim_module_Test@7526515b]" name="Employee_List_Module_Test" class="package3_LoanModule.Pim_module_Test"/>
+        <method signature="Pim_module_Test.Employee_List_Add_Test()[pri:1, instance:package3_LoanModule.Pim_module_Test@7526515b]" name="Employee_List_Add_Test" class="package3_LoanModule.Pim_module_Test"/>
+        <method signature="Pim_module_Test.Employee_List_EmployeeSearch_Test()[pri:2, instance:package3_LoanModule.Pim_module_Test@7526515b]" name="Employee_List_EmployeeSearch_Test" class="package3_LoanModule.Pim_module_Test"/>
+        <method signature="Pim_module_Test.Employee_List_Module_Test()[pri:0, instance:package3_LoanModule.Pim_module_Test@273444fe]" name="Employee_List_Module_Test" class="package3_LoanModule.Pim_module_Test"/>
+        <method signature="Pim_module_Test.Employee_List_Add_Test()[pri:1, instance:package3_LoanModule.Pim_module_Test@273444fe]" name="Employee_List_Add_Test" class="package3_LoanModule.Pim_module_Test"/>
+        <method signature="Pim_module_Test.Employee_List_EmployeeSearch_Test()[pri:2, instance:package3_LoanModule.Pim_module_Test@273444fe]" name="Employee_List_EmployeeSearch_Test" class="package3_LoanModule.Pim_module_Test"/>
+        <method signature="Pim_module_Test.Employee_List_Module_Test()[pri:0, instance:package3_LoanModule.Pim_module_Test@4681c175]" name="Employee_List_Module_Test" class="package3_LoanModule.Pim_module_Test"/>
+        <method signature="Pim_module_Test.Employee_List_Add_Test()[pri:1, instance:package3_LoanModule.Pim_module_Test@4681c175]" name="Employee_List_Add_Test" class="package3_LoanModule.Pim_module_Test"/>
+        <method signature="Pim_module_Test.Employee_List_EmployeeSearch_Test()[pri:2, instance:package3_LoanModule.Pim_module_Test@4681c175]" name="Employee_List_EmployeeSearch_Test" class="package3_LoanModule.Pim_module_Test"/>
+      </group> <!-- Integration -->
+      <group name="FunctionalTesting">
+        <method signature="HomeModule_Test.HomeModule_AdminStory_Test()[pri:0, instance:package2_HomeModule.HomeModule_Test@6d4d66d2]" name="HomeModule_AdminStory_Test" class="package2_HomeModule.HomeModule_Test"/>
+        <method signature="HomeModule_Test.HomeModule_PimStory_Test()[pri:1, instance:package2_HomeModule.HomeModule_Test@6d4d66d2]" name="HomeModule_PimStory_Test" class="package2_HomeModule.HomeModule_Test"/>
+        <method signature="HomeModule_Test.HomeModule_Leave_Test()[pri:2, instance:package2_HomeModule.HomeModule_Test@6d4d66d2]" name="HomeModule_Leave_Test" class="package2_HomeModule.HomeModule_Test"/>
+        <method signature="HomeModule_Test.HomeModule_AdminStory_Test()[pri:0, instance:package2_HomeModule.HomeModule_Test@5524cca1]" name="HomeModule_AdminStory_Test" class="package2_HomeModule.HomeModule_Test"/>
+        <method signature="HomeModule_Test.HomeModule_PimStory_Test()[pri:1, instance:package2_HomeModule.HomeModule_Test@5524cca1]" name="HomeModule_PimStory_Test" class="package2_HomeModule.HomeModule_Test"/>
+        <method signature="HomeModule_Test.HomeModule_Leave_Test()[pri:2, instance:package2_HomeModule.HomeModule_Test@5524cca1]" name="HomeModule_Leave_Test" class="package2_HomeModule.HomeModule_Test"/>
+        <method signature="HomeModule_Test.HomeModule_AdminStory_Test()[pri:0, instance:package2_HomeModule.HomeModule_Test@6fa51cd4]" name="HomeModule_AdminStory_Test" class="package2_HomeModule.HomeModule_Test"/>
+        <method signature="HomeModule_Test.HomeModule_PimStory_Test()[pri:1, instance:package2_HomeModule.HomeModule_Test@6fa51cd4]" name="HomeModule_PimStory_Test" class="package2_HomeModule.HomeModule_Test"/>
+        <method signature="HomeModule_Test.HomeModule_Leave_Test()[pri:2, instance:package2_HomeModule.HomeModule_Test@6fa51cd4]" name="HomeModule_Leave_Test" class="package2_HomeModule.HomeModule_Test"/>
+      </group> <!-- FunctionalTesting -->
+      <group name="RegressionTest">
+        <method signature="Pim_module_Test.Employee_List_Module_Test()[pri:0, instance:package3_LoanModule.Pim_module_Test@7526515b]" name="Employee_List_Module_Test" class="package3_LoanModule.Pim_module_Test"/>
+        <method signature="Logout_module_Test.logout_Profile_Test()[pri:0, instance:package4_logoutMoudle.Logout_module_Test@1ed4ae0f]" name="logout_Profile_Test" class="package4_logoutMoudle.Logout_module_Test"/>
+        <method signature="Pim_module_Test.Employee_List_Add_Test()[pri:1, instance:package3_LoanModule.Pim_module_Test@7526515b]" name="Employee_List_Add_Test" class="package3_LoanModule.Pim_module_Test"/>
+        <method signature="Logout_module_Test.logout_Profile_logout_Test()[pri:1, instance:package4_logoutMoudle.Logout_module_Test@1ed4ae0f]" name="logout_Profile_logout_Test" class="package4_logoutMoudle.Logout_module_Test"/>
+        <method signature="Pim_module_Test.Employee_List_EmployeeSearch_Test()[pri:2, instance:package3_LoanModule.Pim_module_Test@7526515b]" name="Employee_List_EmployeeSearch_Test" class="package3_LoanModule.Pim_module_Test"/>
+        <method signature="Pim_module_Test.Employee_List_Module_Test()[pri:0, instance:package3_LoanModule.Pim_module_Test@273444fe]" name="Employee_List_Module_Test" class="package3_LoanModule.Pim_module_Test"/>
+        <method signature="Logout_module_Test.logout_Profile_Test()[pri:0, instance:package4_logoutMoudle.Logout_module_Test@33bc72d1]" name="logout_Profile_Test" class="package4_logoutMoudle.Logout_module_Test"/>
+        <method signature="Pim_module_Test.Employee_List_Add_Test()[pri:1, instance:package3_LoanModule.Pim_module_Test@273444fe]" name="Employee_List_Add_Test" class="package3_LoanModule.Pim_module_Test"/>
+        <method signature="Logout_module_Test.logout_Profile_logout_Test()[pri:1, instance:package4_logoutMoudle.Logout_module_Test@33bc72d1]" name="logout_Profile_logout_Test" class="package4_logoutMoudle.Logout_module_Test"/>
+        <method signature="Pim_module_Test.Employee_List_EmployeeSearch_Test()[pri:2, instance:package3_LoanModule.Pim_module_Test@273444fe]" name="Employee_List_EmployeeSearch_Test" class="package3_LoanModule.Pim_module_Test"/>
+        <method signature="Pim_module_Test.Employee_List_Module_Test()[pri:0, instance:package3_LoanModule.Pim_module_Test@4681c175]" name="Employee_List_Module_Test" class="package3_LoanModule.Pim_module_Test"/>
+        <method signature="Logout_module_Test.logout_Profile_Test()[pri:0, instance:package4_logoutMoudle.Logout_module_Test@57a78e3]" name="logout_Profile_Test" class="package4_logoutMoudle.Logout_module_Test"/>
+        <method signature="Pim_module_Test.Employee_List_Add_Test()[pri:1, instance:package3_LoanModule.Pim_module_Test@4681c175]" name="Employee_List_Add_Test" class="package3_LoanModule.Pim_module_Test"/>
+        <method signature="Logout_module_Test.logout_Profile_logout_Test()[pri:1, instance:package4_logoutMoudle.Logout_module_Test@57a78e3]" name="logout_Profile_logout_Test" class="package4_logoutMoudle.Logout_module_Test"/>
+        <method signature="Pim_module_Test.Employee_List_EmployeeSearch_Test()[pri:2, instance:package3_LoanModule.Pim_module_Test@4681c175]" name="Employee_List_EmployeeSearch_Test" class="package3_LoanModule.Pim_module_Test"/>
+      </group> <!-- RegressionTest -->
+      <group name="smokeTest">
+        <method signature="Signin_Module_Test.Signin_UserName_Test()[pri:0, instance:package1_SigninModule.Signin_Module_Test@54c5a2ff]" name="Signin_UserName_Test" class="package1_SigninModule.Signin_Module_Test"/>
+        <method signature="Signin_Module_Test.Signin_Password_Test()[pri:1, instance:package1_SigninModule.Signin_Module_Test@54c5a2ff]" name="Signin_Password_Test" class="package1_SigninModule.Signin_Module_Test"/>
+        <method signature="Signin_Module_Test.Signin_LoginButton_Test()[pri:2, instance:package1_SigninModule.Signin_Module_Test@54c5a2ff]" name="Signin_LoginButton_Test" class="package1_SigninModule.Signin_Module_Test"/>
+        <method signature="Signin_Module_Test.Signin_UserName_Test()[pri:0, instance:package1_SigninModule.Signin_Module_Test@1a75e76a]" name="Signin_UserName_Test" class="package1_SigninModule.Signin_Module_Test"/>
+        <method signature="Signin_Module_Test.Signin_Password_Test()[pri:1, instance:package1_SigninModule.Signin_Module_Test@1a75e76a]" name="Signin_Password_Test" class="package1_SigninModule.Signin_Module_Test"/>
+        <method signature="Signin_Module_Test.Signin_LoginButton_Test()[pri:2, instance:package1_SigninModule.Signin_Module_Test@1a75e76a]" name="Signin_LoginButton_Test" class="package1_SigninModule.Signin_Module_Test"/>
+        <method signature="Signin_Module_Test.Signin_UserName_Test()[pri:0, instance:package1_SigninModule.Signin_Module_Test@402c4085]" name="Signin_UserName_Test" class="package1_SigninModule.Signin_Module_Test"/>
+        <method signature="Signin_Module_Test.Signin_Password_Test()[pri:1, instance:package1_SigninModule.Signin_Module_Test@402c4085]" name="Signin_Password_Test" class="package1_SigninModule.Signin_Module_Test"/>
+        <method signature="Signin_Module_Test.Signin_LoginButton_Test()[pri:2, instance:package1_SigninModule.Signin_Module_Test@402c4085]" name="Signin_LoginButton_Test" class="package1_SigninModule.Signin_Module_Test"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test started-at="2024-11-12T22:31:01 IST" name="Test_Chrome" finished-at="2024-11-12T22:31:15 IST" duration-ms="13429">
+      <class name="parameterization_package.Parameterization">
+        <test-method signature="Script_Test(java.lang.String)[pri:0, instance:parameterization_package.Parameterization@1a6d8329]" started-at="2024-11-12T22:31:01 IST" name="Script_Test" finished-at="2024-11-12T22:31:15 IST" duration-ms="13214" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Script_Test -->
+      </class> <!-- parameterization_package.Parameterization -->
+      <class name="package3_LoanModule.Pim_module_Test">
+        <test-method signature="Employee_List_Module_Test()[pri:0, instance:package3_LoanModule.Pim_module_Test@7526515b]" started-at="2024-11-12T22:31:01 IST" name="Employee_List_Module_Test" finished-at="2024-11-12T22:31:01 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee_List_Module_Test -->
+        <test-method signature="Employee_List_Add_Test()[pri:1, instance:package3_LoanModule.Pim_module_Test@7526515b]" started-at="2024-11-12T22:31:15 IST" name="Employee_List_Add_Test" finished-at="2024-11-12T22:31:15 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee_List_Add_Test -->
+        <test-method signature="Employee_List_EmployeeSearch_Test()[pri:2, instance:package3_LoanModule.Pim_module_Test@7526515b]" started-at="2024-11-12T22:31:15 IST" name="Employee_List_EmployeeSearch_Test" finished-at="2024-11-12T22:31:15 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee_List_EmployeeSearch_Test -->
+      </class> <!-- package3_LoanModule.Pim_module_Test -->
+      <class name="package1_SigninModule.Signin_Module_Test">
+        <test-method signature="Signin_UserName_Test()[pri:0, instance:package1_SigninModule.Signin_Module_Test@54c5a2ff]" started-at="2024-11-12T22:31:15 IST" name="Signin_UserName_Test" finished-at="2024-11-12T22:31:15 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin_UserName_Test -->
+        <test-method signature="Signin_Password_Test()[pri:1, instance:package1_SigninModule.Signin_Module_Test@54c5a2ff]" started-at="2024-11-12T22:31:15 IST" name="Signin_Password_Test" finished-at="2024-11-12T22:31:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin_Password_Test -->
+        <test-method signature="Signin_LoginButton_Test()[pri:2, instance:package1_SigninModule.Signin_Module_Test@54c5a2ff]" started-at="2024-11-12T22:31:15 IST" name="Signin_LoginButton_Test" finished-at="2024-11-12T22:31:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin_LoginButton_Test -->
+      </class> <!-- package1_SigninModule.Signin_Module_Test -->
+      <class name="package4_logoutMoudle.Logout_module_Test">
+        <test-method signature="logout_Profile_Test()[pri:0, instance:package4_logoutMoudle.Logout_module_Test@1ed4ae0f]" started-at="2024-11-12T22:31:15 IST" name="logout_Profile_Test" finished-at="2024-11-12T22:31:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout_Profile_Test -->
+        <test-method signature="logout_Profile_logout_Test()[pri:1, instance:package4_logoutMoudle.Logout_module_Test@1ed4ae0f]" started-at="2024-11-12T22:31:15 IST" name="logout_Profile_logout_Test" finished-at="2024-11-12T22:31:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout_Profile_logout_Test -->
+      </class> <!-- package4_logoutMoudle.Logout_module_Test -->
+      <class name="package2_HomeModule.HomeModule_Test">
+        <test-method signature="HomeModule_AdminStory_Test()[pri:0, instance:package2_HomeModule.HomeModule_Test@6d4d66d2]" started-at="2024-11-12T22:31:01 IST" name="HomeModule_AdminStory_Test" finished-at="2024-11-12T22:31:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeModule_AdminStory_Test -->
+        <test-method signature="HomeModule_PimStory_Test()[pri:1, instance:package2_HomeModule.HomeModule_Test@6d4d66d2]" started-at="2024-11-12T22:31:15 IST" name="HomeModule_PimStory_Test" finished-at="2024-11-12T22:31:15 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeModule_PimStory_Test -->
+        <test-method signature="HomeModule_Leave_Test()[pri:2, instance:package2_HomeModule.HomeModule_Test@6d4d66d2]" started-at="2024-11-12T22:31:15 IST" name="HomeModule_Leave_Test" finished-at="2024-11-12T22:31:15 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeModule_Leave_Test -->
+      </class> <!-- package2_HomeModule.HomeModule_Test -->
+    </test> <!-- Test_Chrome -->
+    <test started-at="2024-11-12T22:31:01 IST" name="Test_def_edge" finished-at="2024-11-12T22:31:18 IST" duration-ms="16410">
+      <class name="parameterization_package.Parameterization">
+        <test-method signature="Script_Test(java.lang.String)[pri:0, instance:parameterization_package.Parameterization@353352b6]" started-at="2024-11-12T22:31:01 IST" name="Script_Test" finished-at="2024-11-12T22:31:18 IST" duration-ms="16256" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[NonBrowser]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Script_Test -->
+      </class> <!-- parameterization_package.Parameterization -->
+      <class name="package3_LoanModule.Pim_module_Test">
+        <test-method signature="Employee_List_Module_Test()[pri:0, instance:package3_LoanModule.Pim_module_Test@4681c175]" started-at="2024-11-12T22:31:01 IST" name="Employee_List_Module_Test" finished-at="2024-11-12T22:31:01 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee_List_Module_Test -->
+        <test-method signature="Employee_List_Add_Test()[pri:1, instance:package3_LoanModule.Pim_module_Test@4681c175]" started-at="2024-11-12T22:31:18 IST" name="Employee_List_Add_Test" finished-at="2024-11-12T22:31:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee_List_Add_Test -->
+        <test-method signature="Employee_List_EmployeeSearch_Test()[pri:2, instance:package3_LoanModule.Pim_module_Test@4681c175]" started-at="2024-11-12T22:31:18 IST" name="Employee_List_EmployeeSearch_Test" finished-at="2024-11-12T22:31:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee_List_EmployeeSearch_Test -->
+      </class> <!-- package3_LoanModule.Pim_module_Test -->
+      <class name="package1_SigninModule.Signin_Module_Test">
+        <test-method signature="Signin_UserName_Test()[pri:0, instance:package1_SigninModule.Signin_Module_Test@402c4085]" started-at="2024-11-12T22:31:18 IST" name="Signin_UserName_Test" finished-at="2024-11-12T22:31:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin_UserName_Test -->
+        <test-method signature="Signin_Password_Test()[pri:1, instance:package1_SigninModule.Signin_Module_Test@402c4085]" started-at="2024-11-12T22:31:18 IST" name="Signin_Password_Test" finished-at="2024-11-12T22:31:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin_Password_Test -->
+        <test-method signature="Signin_LoginButton_Test()[pri:2, instance:package1_SigninModule.Signin_Module_Test@402c4085]" started-at="2024-11-12T22:31:18 IST" name="Signin_LoginButton_Test" finished-at="2024-11-12T22:31:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin_LoginButton_Test -->
+      </class> <!-- package1_SigninModule.Signin_Module_Test -->
+      <class name="package4_logoutMoudle.Logout_module_Test">
+        <test-method signature="logout_Profile_Test()[pri:0, instance:package4_logoutMoudle.Logout_module_Test@57a78e3]" started-at="2024-11-12T22:31:18 IST" name="logout_Profile_Test" finished-at="2024-11-12T22:31:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout_Profile_Test -->
+        <test-method signature="logout_Profile_logout_Test()[pri:1, instance:package4_logoutMoudle.Logout_module_Test@57a78e3]" started-at="2024-11-12T22:31:18 IST" name="logout_Profile_logout_Test" finished-at="2024-11-12T22:31:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout_Profile_logout_Test -->
+      </class> <!-- package4_logoutMoudle.Logout_module_Test -->
+      <class name="package2_HomeModule.HomeModule_Test">
+        <test-method signature="HomeModule_AdminStory_Test()[pri:0, instance:package2_HomeModule.HomeModule_Test@6fa51cd4]" started-at="2024-11-12T22:31:01 IST" name="HomeModule_AdminStory_Test" finished-at="2024-11-12T22:31:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeModule_AdminStory_Test -->
+        <test-method signature="HomeModule_PimStory_Test()[pri:1, instance:package2_HomeModule.HomeModule_Test@6fa51cd4]" started-at="2024-11-12T22:31:18 IST" name="HomeModule_PimStory_Test" finished-at="2024-11-12T22:31:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeModule_PimStory_Test -->
+        <test-method signature="HomeModule_Leave_Test()[pri:2, instance:package2_HomeModule.HomeModule_Test@6fa51cd4]" started-at="2024-11-12T22:31:18 IST" name="HomeModule_Leave_Test" finished-at="2024-11-12T22:31:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeModule_Leave_Test -->
+      </class> <!-- package2_HomeModule.HomeModule_Test -->
+    </test> <!-- Test_def_edge -->
+    <test started-at="2024-11-12T22:31:01 IST" name="Test_Firefox" finished-at="2024-11-12T22:31:18 IST" duration-ms="16531">
+      <class name="parameterization_package.Parameterization">
+        <test-method signature="Script_Test(java.lang.String)[pri:0, instance:parameterization_package.Parameterization@16eb3ea3]" started-at="2024-11-12T22:31:01 IST" name="Script_Test" finished-at="2024-11-12T22:31:18 IST" duration-ms="16359" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Script_Test -->
+      </class> <!-- parameterization_package.Parameterization -->
+      <class name="package3_LoanModule.Pim_module_Test">
+        <test-method signature="Employee_List_Module_Test()[pri:0, instance:package3_LoanModule.Pim_module_Test@273444fe]" started-at="2024-11-12T22:31:01 IST" name="Employee_List_Module_Test" finished-at="2024-11-12T22:31:01 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee_List_Module_Test -->
+        <test-method signature="Employee_List_Add_Test()[pri:1, instance:package3_LoanModule.Pim_module_Test@273444fe]" started-at="2024-11-12T22:31:18 IST" name="Employee_List_Add_Test" finished-at="2024-11-12T22:31:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee_List_Add_Test -->
+        <test-method signature="Employee_List_EmployeeSearch_Test()[pri:2, instance:package3_LoanModule.Pim_module_Test@273444fe]" started-at="2024-11-12T22:31:18 IST" name="Employee_List_EmployeeSearch_Test" finished-at="2024-11-12T22:31:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee_List_EmployeeSearch_Test -->
+      </class> <!-- package3_LoanModule.Pim_module_Test -->
+      <class name="package1_SigninModule.Signin_Module_Test">
+        <test-method signature="Signin_UserName_Test()[pri:0, instance:package1_SigninModule.Signin_Module_Test@1a75e76a]" started-at="2024-11-12T22:31:18 IST" name="Signin_UserName_Test" finished-at="2024-11-12T22:31:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin_UserName_Test -->
+        <test-method signature="Signin_Password_Test()[pri:1, instance:package1_SigninModule.Signin_Module_Test@1a75e76a]" started-at="2024-11-12T22:31:18 IST" name="Signin_Password_Test" finished-at="2024-11-12T22:31:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin_Password_Test -->
+        <test-method signature="Signin_LoginButton_Test()[pri:2, instance:package1_SigninModule.Signin_Module_Test@1a75e76a]" started-at="2024-11-12T22:31:18 IST" name="Signin_LoginButton_Test" finished-at="2024-11-12T22:31:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin_LoginButton_Test -->
+      </class> <!-- package1_SigninModule.Signin_Module_Test -->
+      <class name="package4_logoutMoudle.Logout_module_Test">
+        <test-method signature="logout_Profile_Test()[pri:0, instance:package4_logoutMoudle.Logout_module_Test@33bc72d1]" started-at="2024-11-12T22:31:18 IST" name="logout_Profile_Test" finished-at="2024-11-12T22:31:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout_Profile_Test -->
+        <test-method signature="logout_Profile_logout_Test()[pri:1, instance:package4_logoutMoudle.Logout_module_Test@33bc72d1]" started-at="2024-11-12T22:31:18 IST" name="logout_Profile_logout_Test" finished-at="2024-11-12T22:31:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout_Profile_logout_Test -->
+      </class> <!-- package4_logoutMoudle.Logout_module_Test -->
+      <class name="package2_HomeModule.HomeModule_Test">
+        <test-method signature="HomeModule_AdminStory_Test()[pri:0, instance:package2_HomeModule.HomeModule_Test@5524cca1]" started-at="2024-11-12T22:31:01 IST" name="HomeModule_AdminStory_Test" finished-at="2024-11-12T22:31:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeModule_AdminStory_Test -->
+        <test-method signature="HomeModule_PimStory_Test()[pri:1, instance:package2_HomeModule.HomeModule_Test@5524cca1]" started-at="2024-11-12T22:31:18 IST" name="HomeModule_PimStory_Test" finished-at="2024-11-12T22:31:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeModule_PimStory_Test -->
+        <test-method signature="HomeModule_Leave_Test()[pri:2, instance:package2_HomeModule.HomeModule_Test@5524cca1]" started-at="2024-11-12T22:31:18 IST" name="HomeModule_Leave_Test" finished-at="2024-11-12T22:31:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeModule_Leave_Test -->
+      </class> <!-- package2_HomeModule.HomeModule_Test -->
+    </test> <!-- Test_Firefox -->
+  </suite> <!-- Suite -->
+</testng-results>
