@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 public class Dataprovider_Class2
 {
-	@DataProvider(name="Shwetha")
+	@DataProvider(name="smitha")
 	public Object[][] getData2()
 	{
 		Object[][] arr= {

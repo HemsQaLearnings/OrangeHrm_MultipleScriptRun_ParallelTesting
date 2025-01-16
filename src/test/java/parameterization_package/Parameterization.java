@@ -15,14 +15,14 @@ import org.testng.annotations.Test;
 
 public class Parameterization
 {
-
+	public WebDriver driver;
 	@Parameters("browser")
 	@Test
 	public void Script_Test(String browser) throws InterruptedException
 	{
 		if(browser.equalsIgnoreCase("firefox"))
 		{
-			WebDriver driver=new FirefoxDriver();
+			driver=new FirefoxDriver();
 			driver.manage().window().maximize();
 			driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
 	
@@ -32,7 +32,7 @@ public class Parameterization
 		}
 		else if(browser.equalsIgnoreCase("chrome"))
 		{
-			WebDriver driver=new ChromeDriver();
+			driver=new ChromeDriver();
 		
 			driver.manage().window().maximize();
 			driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
@@ -40,7 +40,7 @@ public class Parameterization
 			driver.quit();
 		}
 		else {
-			WebDriver driver=new EdgeDriver();
+			driver=new EdgeDriver();
 			driver.manage().window().maximize();
 			driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
 			Thread.sleep(3000);

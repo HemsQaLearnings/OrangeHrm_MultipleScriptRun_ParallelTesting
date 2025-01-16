@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="dataprovider.Dataprovider_Class">
+      <class name="newAssertion.SoftAssertExample">
         <methods>
-          <include name="useData"/>
+          <include name="OrangeHrm_Assertion"/>
         </methods>
-      </class> <!-- dataprovider.Dataprovider_Class -->
+      </class> <!-- newAssertion.SoftAssertExample -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

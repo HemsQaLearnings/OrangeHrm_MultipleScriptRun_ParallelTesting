@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 public class DataProiveder_betweentheclass {
 
-	@DataProvider(name = "Manohar")
+	@DataProvider(name = "Pinky")
 	public Object[][] getData3() 
 	{
 		Object[][] arr = { { "Manual", "70" }, { "Sql", "95" }, { "Selenium", "89" }
